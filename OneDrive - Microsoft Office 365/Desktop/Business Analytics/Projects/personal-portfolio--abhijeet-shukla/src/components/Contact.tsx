@@ -85,7 +85,7 @@ export default function Contact() {
                     rel="noopener noreferrer"
                     className="text-lg font-medium hover:text-accent transition-colors"
                   >
-                    linkedin.com/in/abhijeetshukla
+                    linkedin.com/in/shukla-abhijeet/
                   </a>
                 </div>
               </div>
